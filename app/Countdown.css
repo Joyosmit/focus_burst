@@ -1,0 +1,14 @@
+.running-time{
+    transform: translateX(-150%) translateY(-20%);
+    font-size: 4rem;
+    line-height: 4rem;
+    
+}
+.dur{
+    transition-duration: 2000ms;
+}
+.running-time-but-for-big-div{
+    transform: translateX(-60%);
+    opacity: 0;
+    /* display: none; */
+}
