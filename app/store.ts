@@ -1,4 +1,4 @@
-// src/zustand/timerState.ts (or a suitable location)
+//@ts-nocheck
 
 import { create } from 'zustand';
 

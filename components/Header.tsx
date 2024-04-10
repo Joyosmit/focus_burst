@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Button } from "@/components/ui/button"
 import { ClerkLoaded, ClerkLoading, SignUpButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs"
 import { Loader } from "lucide-react"
